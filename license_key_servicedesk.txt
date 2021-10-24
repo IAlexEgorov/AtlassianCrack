@@ -1,0 +1,27 @@
+#Tue Aug 27 20:57:42 CDT 2019
+greenhopper.LicenseEdition=ENTERPRISE
+NumberOfUsers=-1
+ContactName=test@teko.vn
+jira.NumberOfUsers=-1
+PurchaseDate=2019-08-28
+LicenseTypeName=COMMERCIAL
+LicenseExpiryDate=2099-09-27
+ContactEMail=binh.nt@teko.vn
+ServerID=BQX9-6FJT-S0YH-ZCO1
+jira.product.jira-servicedesk.active=true
+jira.LicenseEdition=ENTERPRISE
+greenhopper.LicenseTypeName=COMMERCIAL
+MaintenanceExpiryDate=2099-09-27
+jira.product.jira-servicedesk.NumberOfUsers=-1
+LicenseID=LIDSEN-L15762272
+SEN=SEN-L15762272
+jira.product.jira-servicedesk.Starter=false
+Organisation=Test
+CreationDate=2019-08-28
+licenseVersion=2
+greenhopper.enterprise=true
+Description=Jira Service Desk (Server)\: COMMERCIAL
+jira.active=true
+jira.LicenseTypeName=COMMERCIAL
+greenhopper.active=true
+Evaluation=false

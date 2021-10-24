@@ -1,0 +1,14 @@
+Description=Crowd\: Commercial
+CreationDate=2019-01-01
+crowd.active=true
+Evaluation=false
+crowd.LicenseTypeName=COMMERCIAL
+MaintenanceExpiryDate=2099-01-01
+crowd.NumberOfClusterNodes=0
+Organisation=chungkol.com
+ServerID=BT1U-OG2F-97JH-Y6YO
+SEN=L15764983
+LicenseID=LIDSEN-L15764983
+crowd.NumberOfUsers=-1
+LicenseExpiryDate=2099-01-01
+PurchaseDate=2019-01-01

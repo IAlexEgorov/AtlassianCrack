@@ -1,0 +1,14 @@
+Description=Confluence\: Commercial
+CreationDate=2019-01-01
+conf.active=true
+Evaluation=false
+conf.LicenseTypeName=COMMERCIAL
+MaintenanceExpiryDate=2099-01-01
+conf.NumberOfClusterNodes=0
+Organisation=chungkol.com
+ServerID=B1Y3-1R40-C2Z4-516N
+SEN=L15762276
+LicenseID=LIDSEN-L15762276
+conf.NumberOfUsers=-1
+LicenseExpiryDate=2099-01-01
+PurchaseDate=2019-01-01
